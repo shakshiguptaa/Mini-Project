@@ -35,6 +35,30 @@ foodgrade-project/ ├── backend/ │ ├── config/ # Database configura
 - A code editor (e.g., VS Code)
 - npm or yarn (for dependency management)
 
+# FoodGrade - Authenticity Verification for Food Labels
+
+## Project Overview
+FoodGrade is a web-based platform designed to verify the authenticity of manufacturing and expiration dates on packaged food products.
+
+## Features
+- **Product Label Verification**
+- **Consumer Protection**
+- **Retailer/Distributor Support**
+- **Transparency in the Food Industry**
+- **Reduces Food Waste**
+
+## Media
+
+### Screenshot
+![FoodGrade Interface](assets/images/screenshot.jpg)
+
+### Demo Video
+[Watch the Demo Video](assets/videos/foodgrade-demo.mp4)
+
+### Documentation (PDF)
+[Download the Full Documentation](assets/docs/foodgrade-doc.pdf)
+
+
 ### Installation
 
 #### 1. Clone the repository:
