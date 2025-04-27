@@ -1,0 +1,10 @@
+foodgrade-backend/
+├── config/
+│   └── database.js
+├── models/
+│   ├── product.js
+│   └── verificationLog.js
+├── node_modules/
+├── package.json
+├── package-lock.json
+└── server.js
