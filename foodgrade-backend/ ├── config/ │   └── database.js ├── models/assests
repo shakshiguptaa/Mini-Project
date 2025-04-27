@@ -1,0 +1,5 @@
+foodgrade-project/
+├── assets/
+│   └── docs/
+│       └── your-file.pdf
+└── README.md
