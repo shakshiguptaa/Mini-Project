@@ -1,0 +1,7 @@
+DateVerifyFrontend/
+  ├── index.html
+  ├── style.css
+  ├── script.js
+  ├── sample1.jpg   <-- (fake image for capture)
+  ├── sample2.jpg
+  └── sample3.jpg
