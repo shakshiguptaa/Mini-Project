@@ -1,0 +1,21 @@
+foodgrade-backend/
+├── config/
+│   ├── database.js
+│   ├── auth.js
+├── controllers/
+│   ├── productController.js
+│   ├── verificationLogController.js
+│   └── authController.js
+├── models/
+│   ├── product.js
+│   ├── verificationLog.js
+│   └── user.js
+├── routes/
+│   ├── productRoutes.js
+│   ├── verificationLogRoutes.js
+│   └── authRoutes.js
+├── node_modules/
+├── package.json
+├── package-lock.json
+├── server.js
+└── .gitignore
